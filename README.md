@@ -1,5 +1,5 @@
 ## Hello World for P5.js
-#### by Scott Kildall
+#### by An Duong
 
 
 
